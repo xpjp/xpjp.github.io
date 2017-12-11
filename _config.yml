@@ -18,7 +18,8 @@ email: xp_japan@xpcoin.io
 description: >- # this means to ignore newlines until "baseurl:"
    eXperience Pointsはゲーム報酬に特化された仮想通貨です。
    ブロックチェーン技術をあらゆるゲームに取り入れることを可能にします。
-   また、スポーツや教育分野も私たちのターゲットです。それを目指し日々開発を続けております。
+   また、スポーツや教育分野も私たちのターゲットです。
+   それらの実現を目指し日々開発を続けております。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xp_japan

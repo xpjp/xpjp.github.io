@@ -2,7 +2,7 @@
 layout: post
 title:  "Cryptopia 上場のための資金調達 (募金) のお願い"
 date:   2017-12-11 17:42:09 +0900
-categories: jekyll update
+categories: official_announcement
 ---
 discord XP日本コミュニティは[こちら](http://discord.gg/kDRZz4w)  
 

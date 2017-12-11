@@ -2,7 +2,7 @@
 layout: post
 title:  "XPコインへようこそ！"
 date:   2017-12-11 16:14:09 +0900
-categories: jekyll update
+categories: official_announcement
 ---
 discord XP日本コミュニティは[こちら](http://discord.gg/kDRZz4w)  
 
