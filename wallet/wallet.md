@@ -15,7 +15,7 @@ permalink: /wallet/
 <br>
 # XP Walletの導入方法
 - Windows  
-愛をこめて再編中 discordのfaqを見てね  
+[アルトコインXPのPOSマイニング奮闘記！やり方がわからず悪戦苦闘！～Windows版～ かにかまさん](http://www.bitcoin77777.com/2017/11/23/171210)  
 
 - Mac OS  
 [【仮想通貨】PoSでザクザク！草コインXPのPCウォレット（Mac版）導入方法・使い方 calanco_ccさん](http://www.workinvest-inbest.com/entry/2017/11/19/204946)  
@@ -24,7 +24,7 @@ permalink: /wallet/
 [LinuxでXPをPosマイニングする(CUI版) ettさん](https://qiita.com/ett126/items/30ce730f455a2e0095e2)  
 
 - Android  
-愛をこめて再編中  
+[こちら](https://play.google.com/store/apps/details?id=sk.xp.wallet)からダウンロードできます。PoS対象外となっておりますのでご留意ください。  
 
 - iOS  
 iOS用ウォレットについては、開発中となっております。  
