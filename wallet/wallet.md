@@ -15,7 +15,7 @@ permalink: /wallet/
 <br>
 # XP Walletの導入方法
 - Windows  
-愛をこめて再編中 discordのfaqを見てね  
+[アルトコインXPのPOSマイニング奮闘記！やり方がわからず悪戦苦闘！～Windows版～ かにかまさん](http://www.bitcoin77777.com/2017/11/23/171210)  
 
 - Mac OS  
 [【仮想通貨】PoSでザクザク！草コインXPのPCウォレット（Mac版）導入方法・使い方 calanco_ccさん](http://www.workinvest-inbest.com/entry/2017/11/19/204946)  
