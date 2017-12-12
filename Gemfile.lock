@@ -1,10 +1,3 @@
-PATH
-  remote: .
-  specs:
-    minima (2.1.1)
-      jekyll (~> 3.5)
-      jekyll-seo-tag (~> 2.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -25,10 +18,10 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-feed (0.9.2)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
-    jekyll-seo-tag (2.4.0)
-      jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     kramdown (1.16.2)
@@ -38,6 +31,8 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
+    minima (2.1.1)
+      jekyll (~> 3.3)
     pathutil (0.16.0)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
@@ -52,14 +47,21 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    thread_safe (0.3.6)
+    tzinfo (1.2.4)
+      thread_safe (~> 0.1)
+    tzinfo-data (1.2017.3)
+      tzinfo (>= 1.0.0)
 
 PLATFORMS
   ruby
   x86-mingw32
 
 DEPENDENCIES
-  bundler (~> 1.12)
-  minima!
+  jekyll (~> 3.6.2)
+  jekyll-feed (~> 0.6)
+  minima (~> 2.0)
+  tzinfo-data
 
 BUNDLED WITH
    1.16.0
