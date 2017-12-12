@@ -24,7 +24,7 @@ permalink: /wallet/
 [LinuxでXPをPosマイニングする(CUI版) ettさん](https://qiita.com/ett126/items/30ce730f455a2e0095e2)  
 
 - Android  
-愛をこめて再編中  
+[こちら](https://play.google.com/store/apps/details?id=sk.xp.wallet)からダウンロードできます。PoS対象外となっておりますのでご留意ください。  
 
 - iOS  
 iOS用ウォレットについては、開発中となっております。  
