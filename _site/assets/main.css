@@ -489,3 +489,8 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.header-icon {
+  height: 10mm;
+  width: 10mm;
+  margin-right: 0.3em; }
