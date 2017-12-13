@@ -2,7 +2,8 @@
 layout: post
 title:  "Cryptopia 上場のための資金調達 (募金) のお願い"
 date:   2017-12-11 17:42:09 +0900
-categories: official_announcement
+categories: official
+author: 依田芳乃
 ---
 discord XP日本コミュニティは[こちら](http://discord.gg/kDRZz4w)  
 
