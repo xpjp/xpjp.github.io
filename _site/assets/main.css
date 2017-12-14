@@ -497,3 +497,49 @@ table {
 
 .xp-value-box {
   margin-bottom: 1em; }
+
+.post-meta {
+  display: block;
+  margin-top: -.3rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a; }
+  .post-meta time {
+    margin-right: .5rem; }
+  .post-meta .post-categories {
+    display: inline-block; }
+    .post-meta .post-categories a {
+      padding: 0 .3rem;
+      margin: 0 .1rem;
+      background: #111;
+      color: white;
+      font-size: .8rem; }
+      .post-meta .post-categories a:hover {
+        text-decoration: none; }
+
+.category-cloud {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+  .category-cloud li {
+    display: inline-block; }
+    .category-cloud li a {
+      padding: 0 .3rem;
+      margin: 0 .1rem;
+      background: #111;
+      color: white; }
+      .category-cloud li a:hover {
+        text-decoration: none; }
+
+.post-summary {
+  border-bottom: solid 2px #E4E6EB; }
+
+.post-summary:first-child {
+  border-top: solid 2px #E4E6EB;
+  padding-top: 1em; }
+
+#category-post-list-item {
+  margin-top: 0.2em; }
+
+.page-heading {
+  margin-top: 2em;
+  padding-left: 0.1em; }

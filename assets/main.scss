@@ -4,6 +4,8 @@
 
 @import "minima";
 
+$border-color: #E4E6EB;
+
 .header-icon {
     height: 10mm;
     width: 10mm;
@@ -12,4 +14,60 @@
 
 .xp-value-box {
     margin-bottom: 1em;
+}
+
+@mixin post-category {
+    padding: 0 .3rem;
+    margin: 0 .1rem;
+    background: $text-color;
+    color: white;
+    &:hover {
+        text-decoration: none;
+    }
+}
+.post-meta {
+    display: block;
+    margin-top: -.3rem;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+    time {
+        margin-right: .5rem;
+    }
+    .post-categories {
+        display: inline-block;
+        a {
+            @include post-category;
+            font-size: .8rem;
+        }
+    }
+}
+
+.category-cloud {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
+        display: inline-block;
+        a {
+            @include post-category;
+        }
+    }
+}
+
+.post-summary {
+    border-bottom: solid 2px $border-color;
+}
+
+.post-summary:first-child {
+    border-top: solid 2px $border-color;
+    padding-top: 1em;
+}
+
+#category-post-list-item {
+    margin-top: 0.2em;
+}
+
+.page-heading {
+    margin-top: 2em;
+    padding-left: 0.1em;
 }

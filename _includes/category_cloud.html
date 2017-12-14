@@ -1,0 +1,21 @@
+{% if include.categories_name %}
+    {% assign categories_name = include.categories_name %}
+{% else %}
+    {% assign categories_name = "" | split: "|"  %}
+
+    {% for posts_by_category in site.categories %}
+        {% assign categories_name = categories_name | push: posts_by_category.first %}
+    {% endfor %}
+
+    {% assign categories_name = categories_name | sort %}
+{% endif %}
+
+<ul class="tag-cloud">
+{% for category_name in categories_name %}
+  <li>
+    <a href="{{ baseurl }}/categories#{{ category_name | slugize }}">
+      {{ category_name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
