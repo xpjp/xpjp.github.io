@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "XPコインへようこそ！"
-date:   2017-12-11 10:14:09 +0900
+date:   2017-12-11 16:14:09 +0900
 categories: official
 author: 依田芳乃
 ---
-10
-discord XP日本コミュニティは[こちら](http://discord.gg/kDRZz4w)  
+discord XP日本コミュニティは[こちら](https://discord.gg/byc8pnM)  
 
 <br>
 # ROAD MAP  
