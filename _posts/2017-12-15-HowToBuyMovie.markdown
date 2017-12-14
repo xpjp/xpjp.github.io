@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "動画でわかるXPの買い方など"
-date:   2017-12-11 8:42:09 +0900
+date:   2017-12-15 8:42:09 +0900
 categories: official
 author: 依田
 ---
