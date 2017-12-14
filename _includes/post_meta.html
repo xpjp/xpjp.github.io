@@ -1,0 +1,21 @@
+{% if post %}
+  {% assign date = post.date %}
+  {% assign categories = post.categories %}
+{% else %}
+  {% assign date = page.date %}
+  {% assign categories = page.categories %}
+{% endif %}
+
+<span class="post-meta">
+  <time datetime="{{ date | date_to_xmlschema }}" class="post-date">
+    {{ date | date_to_string }}
+  </time>
+
+  <div class="post-categories">
+    {% for category in categories %}
+      <a href="{{ site.baseurl }}/categories#{{ category | slugize }}">
+        {{ category }}
+      </a>
+    {% endfor %}
+  </div>
+</span>
