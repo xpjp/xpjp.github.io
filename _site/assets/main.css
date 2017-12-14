@@ -531,10 +531,10 @@ table {
         text-decoration: none; }
 
 .post-summary {
-  border-bottom: solid 2px #E4E6EB; }
+  border-bottom: solid 1px #E4E6EB; }
 
 .post-summary:first-child {
-  border-top: solid 2px #E4E6EB;
+  border-top: solid 1px #E4E6EB;
   padding-top: 1em; }
 
 #category-post-list-item {
@@ -546,3 +546,13 @@ table {
 
 .posts-by-categories {
   margin-top: 1em; }
+
+.post-title {
+  font-size: 26pt !important; }
+
+.post-header {
+  border-bottom: solid 1px #E4E6EB; }
+
+.posts-by-categories {
+  padding-top: 1em;
+  border-top: solid 1px #E4E6EB !important; }

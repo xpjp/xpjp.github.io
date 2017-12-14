@@ -55,11 +55,11 @@ $border-color: #E4E6EB;
 }
 
 .post-summary {
-    border-bottom: solid 2px $border-color;
+    border-bottom: solid 1px $border-color;
 }
 
 .post-summary:first-child {
-    border-top: solid 2px $border-color;
+    border-top: solid 1px $border-color;
     padding-top: 1em;
 }
 
@@ -74,4 +74,17 @@ $border-color: #E4E6EB;
 
 .posts-by-categories {
     margin-top: 1em;
+}
+
+.post-title {
+    font-size: 26pt !important;
+}
+
+.post-header {
+    border-bottom: solid 1px $border-color;
+}
+
+.posts-by-categories {
+    padding-top: 1em;
+    border-top: solid 1px $border-color !important;
 }
