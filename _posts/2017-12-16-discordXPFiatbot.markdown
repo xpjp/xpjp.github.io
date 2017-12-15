@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "discord bot「XPFiat-BOT」の使い方"
+title:  "和製discord bot「XPFiat-BOT」の使い方"
 date:   2017-12-16 1:00:00 +0900
 categories: official
 author: 依田
