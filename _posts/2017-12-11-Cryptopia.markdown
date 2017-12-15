@@ -3,7 +3,7 @@ layout: post
 title:  "Cryptopia 上場のための資金調達 (募金) のお願い"
 date:   2017-12-11 17:42:09 +0900
 categories: official
-author: 依田芳乃
+author: 依田
 ---
 以下、2017/11/13の記事となります。  
 

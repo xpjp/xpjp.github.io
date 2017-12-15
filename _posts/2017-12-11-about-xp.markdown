@@ -3,7 +3,7 @@ layout: post
 title:  "XPコインへようこそ！"
 date:   2017-12-11 16:14:09 +0900
 categories: official
-author: 依田芳乃
+author: 依田
 ---
 # ROAD MAP  
 公式ANNにて発表済みの今後の開発予定をお知らせします。  
