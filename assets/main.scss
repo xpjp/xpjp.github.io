@@ -88,3 +88,9 @@ $border-color: #E4E6EB;
     padding-top: 1em;
     border-top: solid 1px $border-color !important;
 }
+
+.icon--discord > svg {
+    margin-left: -0.1em !important;
+    margin-right: 0.1em !important;
+    width: 20px !important;
+}

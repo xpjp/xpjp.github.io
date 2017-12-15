@@ -9,6 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xp_japan
 github_username:  xpjp
+discord_channel_name: XP 日本
+discord_url: https://discord.gg/byc8pnM
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
