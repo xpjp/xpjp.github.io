@@ -5,6 +5,24 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+
+  <ul class="sns-share">
+      <li>
+        <a href="https://plus.google.com/share?url={{ page.url | absolute_url }}" rel="nofollow" target="_blank" title="Share on Google+" class='share-button-google'>
+          Google
+        </a>
+      </li>
+      <li>
+        <a href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" rel="nofollow" target="_blank" title="Share on Facebook" class='share-button-facebook'>
+          Facebook
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/intent/tweet?text={{ site.title }}%20-%20{{ page.title }}&url={{ page.url | absolute_url }}" rel="nofollow" target="_blank" title="Share on Twitter" class='share-button-twitter'>
+          Twitter
+        </a>
+      </li>
+    </ul>
     <p class="post-meta">
       {% for category in page.categories %}
         <a class="post-category-link" href="{{ baseurl }}/categories#{{ category | slugize }}">{{ category | escape }}</a>
