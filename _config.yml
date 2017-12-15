@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    また、スポーツや教育分野も私たちのターゲットです。
    それらの実現を目指し日々開発を続けております。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xpjp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xp_japan
 github_username:  xpjp
 discord_channel_name: XP 日本
