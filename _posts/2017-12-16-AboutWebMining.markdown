@@ -19,7 +19,7 @@ author: 依田
 <br>
 ![スクショ1]({{site.baseurl}}/images/20171216-01.png)  
 
-![スクショ2]({{site.baseurl}}/images/20171216-01.png)  
+![スクショ2]({{site.baseurl}}/images/20171216-02.png)  
 
 <br>
 訳  
