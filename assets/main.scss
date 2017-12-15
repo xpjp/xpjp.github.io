@@ -94,3 +94,67 @@ $border-color: #E4E6EB;
     margin-right: 0.1em !important;
     width: 20px !important;
 }
+
+.sns-share {
+    list-style: none;
+}
+
+.sns-share > li {
+    margin: 1em;;
+    float: right;
+}
+
+$sns-share-font-color: #fefefe;
+
+.sns-share > li > a {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
+    cursor: pointer;
+    color: $sns-share-font-color;
+    font-weight: bold;
+}
+
+$twitter-color: #1dcaff;
+$facebook-color: #3B5998;
+$google-color: #d34836;
+
+$twitter-shadow-color: #0dbaef;
+$facebook-shadow-color: #2B4988;
+$google-shadow-color: #e33826;
+
+.sns-share > li > a:hover {
+    text-decoration: none;
+}
+
+.sns-share > li > .share-button-twitter:hover {
+    color: $twitter-color;
+    background-color: $sns-share-font-color;
+}
+
+.sns-share > li > .share-button-google:hover {
+    color: $google-color;
+    background-color: $sns-share-font-color;
+}
+
+.sns-share > li > .share-button-facebook:hover {
+    color: $facebook-color;
+    background-color: $sns-share-font-color;
+}
+
+.share-button-twitter {
+    background-color: $twitter-color;
+    border: solid 1px $twitter-color;
+}
+
+.share-button-facebook {
+    background-color: $facebook-color;
+    border: solid 1px $facebook-color;
+}
+
+.share-button-google {
+    background-color: $google-color;
+    border: solid 1px $google-color;
+}
