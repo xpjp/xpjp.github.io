@@ -15,5 +15,3 @@ XPの買い方などを動画でまとめてくださっているサイトを紹
 - [【動画あり】仮想通貨XPの買い方と特徴をガチで解説してみた @沖ケイタさん](https://www.proof0309.com/entry/kusa-xp)  
     - XPの特徴から購入方法まで詳しく載ってます  
 
-<br>
-discord XP日本コミュニティは[こちら](http://discord.gg/kDRZz4w) 
