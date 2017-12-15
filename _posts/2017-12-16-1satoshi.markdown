@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Coinexchange にて 1satoshi 達成しました！"
+date:   2017-12-16 3:44:00 +0900
+categories: official
+author: 依田
+---
+
+みなさまのご声援を受け、XP は 2017/12/16 03:43 にサトシの世界へと旅立ちました。  
+本当にありがとうございます。そして、ゲームはまだ始まったばかりです。  
+これからの eXperience Points 、XP Team 、XP-JP にご期待ください！  
+Hello, SATOSHI WORLD.  
+
+<br>
+![スクショ1]({{site.baseurl}}/images/break1satoshiWall.jpg)  
+Buy Orderについに1satoshiの注文が並びました！  
