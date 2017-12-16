@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ブートストラップ導入手順"
-date:   2017-12-16 1:30:00 +0900
+date:   2017-12-16 13:30:00 +0900
 categories: official
 author: 依田
 ---
