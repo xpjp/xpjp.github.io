@@ -530,6 +530,9 @@ table {
       .category-cloud li a:hover {
         text-decoration: none; }
 
+.faq-partial, .post-content * {
+  line-height: 2em !important; }
+
 .post-summary {
   border-bottom: solid 1px #E4E6EB; }
 

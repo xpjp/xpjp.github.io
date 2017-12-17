@@ -54,6 +54,10 @@ $border-color: #E4E6EB;
     }
 }
 
+.faq-partial, .post-content * {
+    line-height: 2em !important;
+}
+
 .post-summary {
     border-bottom: solid 1px $border-color;
 }
