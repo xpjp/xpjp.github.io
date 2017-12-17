@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wallet
+title: "Walletの作成手順が分かるサイトへのリンク"
 date:   2017-12-15 13:30:00 +0900
 categories: official
 author: 依田

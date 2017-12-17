@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mining
+title: "Miningのやり方について"
 date:   2017-12-15 13:30:00 +0900
 categories: official
 author: 依田
