@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "XPFiat-BOT に「おはなし機能」が実装されました "
+title:  "XPFiat-BOT に「おはなし機能」が実装されました"
 date:   2017-12-17 14:30:00 +0900
 categories: official
 author: 依田
