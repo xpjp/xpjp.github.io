@@ -7,6 +7,13 @@ author: 依田
 ---
 # ブートストラップ 導入手順
 
+## ０. ブートストラップの入手  
+XP WalletのBootstrapはここから入手することができます。  
+
+[Windows/Linux用](https://drive.google.com/open?id=1uKV7vd4FTm457rG9CoUPzZgP2j4W_TYd)  
+[Windows/Linux用 ミラーリンク(Dropbox)](https://www.dropbox.com/s/wz8sg14ujmx1dnm/xpcoin-bootstrap-peers.zip?dl=0)  
+[Mac用](https://drive.google.com/file/d/1-x5KUDQ__bAC4-7Lapcv3fzb_m33e327)  
+
 ## １．ダウンロードしたxpcoin-bootstrap-peers.zipを解凍(展開)
 
 解凍(展開)の意味が分かる方はzipを解凍してください。「⑦xpcoin-startkit_vX.Xをダブルクリック」まで読み飛ばして大丈夫です。
