@@ -10,8 +10,8 @@ author: 依田
 
 [C-CEX](https://c-cex.com/?id=vote)　※投票には0.1BTC相当の残高が必要
 
-[altcoin.io](https://feedback.altcoinexchange.com/suggestions/2105/add-experience-points-xp)  
+[altcoin.io](https://feedback.altcoinexchange.com/suggestions/2105/add-experience-points-xp)　※Upvoteをクリック  
 
-[NEXT.exchange](https://nextexchange.featureupvote.com/suggestions/2520/add-experience-points-xp--------------------%3E%3E)  
+[NEXT.exchange](https://nextexchange.featureupvote.com/suggestions/2520/add-experience-points-xp--------------------%3E%3E)　※Upvoteをクリック  
 
 CryptoBridge につきましては、**上場達成**しましたので削除しました。みなさまのご協力に感謝します。  
