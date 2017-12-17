@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Mining
-permalink: /mining/
+date:   2017-12-15 13:30:00 +0900
+categories: official
+author: 依田
 ---
 
 # XP疑似マイニング  
@@ -24,26 +26,26 @@ XPマイニングは実は<strong>XMRという違う仮想通貨を掘ってい�
 XP-JPではマイニングにchromeを推奨しています。  
 [https://pool1.xpcoin.io/](https://pool1.xpcoin.io/)を開くと、このような画面になります。アカウントを持っていない方は<strong>Register an Account</strong>をクリックしてアカウントを作りましょう。
 
-<img src="./images/xp_pool_login.jpg">  
+<img src="{{site.baseurl}}/images/mining/xp_pool_login.jpg">  
 
 <br>
 この画面で、ユーザー名とメールアドレス、このプールで使うパスワードとXPのウォレットアドレスを入力して登録します。上の方にあるチェックボックスは上で説明したcoinhiveのもので、このプールではこれを利用してるため忘れずにチェックしてください。  
 
-<img src="./images/xp_pool_signup.jpg">  
+<img src="{{site.baseurl}}/images/mining/xp_pool_signup.jpg">  
 
 <br>
 ログインするとこのような画面になります。これではまだマイニングは始まっていません。  
 
-<img src="./images/xp_pool_dashboard.jpg">  
+<img src="{{site.baseurl}}/images/mining/xp_pool_dashboard.jpg">  
 
 <br>
 画面を下の方にスクロールさせると、<strong>Start Miner</strong>という青いボタンがあります。そこをクリックすると、このようなポップアップが出ます。許可をクリックすると疑似マイニングが始まります。
 
-<img src="./images/xp_pool_popup.jpg">  
+<img src="{{site.baseurl}}/images/mining/xp_pool_popup.jpg">  
 
 <br>
 このような感じで掘れてるのがわかるようになっています。
 マイニングをやめたいときは、先ほど押した下の方にある青いボタンを押してください。  
 
-<img src="./images/xp_pool_hash.jpg">  
+<img src="{{site.baseurl}}/images/mining/xp_pool_hash.jpg">  
 

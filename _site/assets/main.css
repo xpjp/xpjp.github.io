@@ -563,17 +563,23 @@ table {
   width: 20px !important; }
 
 .sns-share {
-  list-style: none; }
+  display: block;
+  list-style: none;
+  float: right;
+  margin: 0 auto;
+  padding: 0; }
 
 .sns-share > li {
-  margin: 1em;
+  margin: 0.4em 0.6em;
+  padding: 0.2em;
   float: right; }
 
 .sns-share > li > a {
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 0.8em;
+  padding-right: 0.8em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  margin: 0 auto;
   cursor: pointer;
   color: #fefefe;
   font-weight: bold; }
@@ -604,3 +610,31 @@ table {
 .share-button-google {
   background-color: #d34836;
   border: solid 1px #d34836; }
+
+.faq-partial {
+  padding-top: 1em;
+  border-top: solid 1px #E4E6EB; }
+
+.faq-partial:first-child {
+  border-top: solid 1px #E4E6EB; }
+
+.rss-subscribe {
+  margin-top: 1em; }
+
+.pagination {
+  font-size: 16pt; }
+
+.pagination > * {
+  margin-left: 0.3em;
+  margin-right: 0.3em; }
+
+@media screen and (max-width: 600px) {
+  .sns-share > li {
+    margin: 0.4em 0.5em;
+    padding: 0.2em 0; }
+
+  .sns-share > li > a {
+    padding-left: 0.6em;
+    padding-right: 0.6em;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em; } }

@@ -28,3 +28,11 @@ exclude:
 markdown: kramdown
 theme: minima
 google_analytics: UA-111302890-1
+
+collections:
+  faqs:
+
+plugins: [jekyll-paginate]
+
+paginate: 5
+paginate_path: "/page:num"
