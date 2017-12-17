@@ -175,6 +175,19 @@ $google-shadow-color: #e33826;
     border-top: solid 1px $border-color;
 }
 
+.rss-subscribe {
+    margin-top: 1em;
+}
+
+.pagination {
+    font-size: 16pt;
+}
+
+.pagination > * {
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+}
+
 @include media-query($on-palm) {
     .sns-share > li {
         margin: 0.4em 0.5em;

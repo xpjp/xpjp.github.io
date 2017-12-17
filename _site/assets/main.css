@@ -618,6 +618,16 @@ table {
 .faq-partial:first-child {
   border-top: solid 1px #E4E6EB; }
 
+.rss-subscribe {
+  margin-top: 1em; }
+
+.pagination {
+  font-size: 16pt; }
+
+.pagination > * {
+  margin-left: 0.3em;
+  margin-right: 0.3em; }
+
 @media screen and (max-width: 600px) {
   .sns-share > li {
     margin: 0.4em 0.5em;
