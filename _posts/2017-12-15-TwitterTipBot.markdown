@@ -31,6 +31,12 @@ Twitterアカウントに紐づいたアドレスの残高を表示する
 ```
 Twitterアカウントに紐づいたアドレスを表示する
 
+- donate
+```
+@tip_XPchan donate [数量]
+```
+開発者に支援XPを送る
+
 - withdraw(未実装)
 ```
 @tip_XPchan withdraw [アドレス] [数量]
