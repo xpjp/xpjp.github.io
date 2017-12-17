@@ -1,12 +1,22 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq
+permalink: /faqs
 ---
-
-{% assign share_url = page.url | absolute_url %}
 
 <h3>FAQ</h3>
 
-{{ site.faqs }}
+<ul class="questions">
+    {% for faq in site.faqs %}
+        <li><a href="{{ baseurl }}/faqs#{{ faq.question | slugize }}">
+            {{ faq.question }}
+        </a></li>
+    {% endfor %}
+</ul>
+
+{% for faq in site.faqs %}
+<span id="{{ faq.question }}">
+    {{ faq }}
+</span>
+{% endfor %}
 
