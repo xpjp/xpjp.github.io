@@ -166,6 +166,15 @@ $google-shadow-color: #e33826;
     border: solid 1px $google-color;
 }
 
+.faq-partial {
+    padding-top: 1em;
+    border-top: solid 1px $border-color;
+}
+
+.faq-partial:first-child {
+    border-top: solid 1px $border-color;
+}
+
 @include media-query($on-palm) {
     .sns-share > li {
         margin: 0.4em 0.5em;

@@ -28,3 +28,6 @@ exclude:
 markdown: kramdown
 theme: minima
 google_analytics: UA-111302890-1
+
+collections:
+  faqs:

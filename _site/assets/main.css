@@ -611,6 +611,13 @@ table {
   background-color: #d34836;
   border: solid 1px #d34836; }
 
+.faq-partial {
+  padding-top: 1em;
+  border-top: solid 1px #E4E6EB; }
+
+.faq-partial:first-child {
+  border-top: solid 1px #E4E6EB; }
+
 @media screen and (max-width: 600px) {
   .sns-share > li {
     margin: 0.4em 0.5em;
