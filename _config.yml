@@ -14,7 +14,7 @@ discord_url: https://discord.gg/byc8pnM
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y/%m/%d %H:%M"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
