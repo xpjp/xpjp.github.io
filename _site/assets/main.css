@@ -631,6 +631,13 @@ table {
   margin-left: 0.3em;
   margin-right: 0.3em; }
 
+.hid {
+  color: #111 !important; }
+
+.hid:hover {
+  cursor: default !important;
+  text-decoration: none; }
+
 @media screen and (max-width: 600px) {
   .sns-share > li {
     margin: 0.4em 0.5em;
