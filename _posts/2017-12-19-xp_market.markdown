@@ -6,7 +6,7 @@ categories: official
 author: 依田
 ---
 [XP MARKET](https://xp.market/) の使い方について解説します。  
-PoSによるステーク報酬で購入してみてはどうでしょうか？  
+みなさんもPoSによるステーク報酬でsteam walletを購入してみてはいかがでしょうか？  
 
 12月19日現在、steamコードしか販売されていない為、steamコードの購入方法について解説しようと思います。  
 **※STEAM WALLET CODE を有効化する際に実際に入金される日本円がレートによって変動しますのでお気を付けください。**  
