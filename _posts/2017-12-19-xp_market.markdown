@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "XP MARKET の使い方"
+date:   2017-12-19 22:50:00 +0900
+categories: official
+author: 依田
+---
+[XP MARKET](https://xp.market/) の使い方について解説します。  
+PoSによるステーク報酬で購入してみてはどうでしょうか？  
+
+12月19日現在、steamコードしか販売されていない為、steamコードの購入方法について解説しようと思います。  
+**※STEAM WALLET CODE を有効化する際に実際に入金される日本円がレートによって変動しますのでお気を付けください。**  
+
+まず、[XP MARKET](https://xp.market/) へ飛びます。  
+
+![スクショ1]({{site.baseurl}}/images/xp_market/1.png)  
+
+`STEAM WALLET CODES` が並んでいるので買いたいものを選びます(今回は100$)。  
+売り切れている場合は `SOLD OUT` と表示されます。
+
+![スクショ2]({{site.baseurl}}/images/xp_market/2.png)  
+
+`QUANTITY` を増減させることによって個数を指定できます。  
+**※品切れの場合欲しい個数選べない場合もあります。**  
+個数を選んだら `ADD TO CART` を押してカートに入れます。  
+
+![スクショ3]({{site.baseurl}}/images/xp_market/3.png)  
+
+欲しいものをカートに入れたら、右上の買い物カゴのマークを押して自分の注文を開きます。  
+`CHECK OUT` を押すと個人情報の入力画面に飛びます。  
+
+![スクショ4]({{site.baseurl}}/images/xp_market/4.png)  
+
+個人情報の入力が完了したら `Continue to payment method` を押します。  
+
+![スクショ5]({{site.baseurl}}/images/xp_market/5.png)  
+
+入力した情報に誤りななければ `COmplete order` を押してください。  
+
+![スクショ6]({{site.baseurl}}/images/xp_market/6.png)  
+
+```
+Located here is the wallet address to sent your XP to finalise the payment.  
+Please reply to this email with your transaction hash.  
+```
+赤く塗りつぶされている場所に表示されているアドレスが送金先になります。  
+ここに購入分のXPを送金し、登録したメールアドレスに届いた `XP MARKET` から届いたメールにトランザクションのIDを返信する必要があります。  
+
+![スクショ7]({{site.baseurl}}/images/xp_market/7.png)  
+
+送金先へXPを送る方法です。  
+購入完了画面で表示された送金アドレス宛にXPを送ります。  
+`Amount` に必要額を入力し、 `Send` で送金します。  
+**※送金先の間違いにお気を付けください。**  
+
+![スクショ8]({{site.baseurl}}/images/xp_market/8.png)  
+
+送金が完了したら、 `Transactions` を開きます。  
+`XP MARKET` に送った履歴があるので、そこをダブルクリックします。  
+
+![スクショ9]({{site.baseurl}}/images/xp_market/9.png)  
+
+`Transaction details` が出てきました。
+青く塗りつぶされている箇所が `Transaction ID` になります。  
+これをコピーして `XP MARKET` から届いた確認メールに貼り付けて返信します。  
+
+![スクショ10]({{site.baseurl}}/images/xp_market/10.png)  
+
+`Transaction ID` を貼り付けて返信するとこのようなメールが届きます。  
+緑色で塗りつぶされているのが `STEAM WALLET CODE` になります。  
+**※STEAM WALLET CODE の有効化について知っている方はここまでで大丈夫です。お疲れ様でした。**  
+
+![スクショ11]({{site.baseurl}}/images/xp_market/11.png)  
+
+`STEAM WALLET CODE` の使い方です。  
+`STEAM` を開いたらアカウント情報を開きます。  
+右上の残高を押すことによって開くことができます。  
+
+![スクショ12]({{site.baseurl}}/images/xp_market/12.png)  
+
+赤枠で囲われている `Steamギフトカードまたはウォレットコードを有効化` を押します。  
+
+![スクショ13]({{site.baseurl}}/images/xp_market/13.png)  
+
+`STEAM WALLET CODE` を入力できるページに飛ぶので、メールで届いたコードを入力し、 `続ける` を押します。  
+
+![スクショ14]({{site.baseurl}}/images/xp_market/14.png)  
+
+ウォレットコードを有効化するか聞かれるので `続ける` を押します。  
+**※レートは変動するのでお気をつけください**  
+
+![スクショ15]({{site.baseurl}}/images/xp_market/15.png)  
+
+これで `STEAM WALLET CODE` が有効化されました。お疲れ様でした。  
+
