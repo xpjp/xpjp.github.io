@@ -4,7 +4,7 @@ layout: default
 
 # XP-JP Management Members  
 更新日 : 2017年12月19日  
-
+[](Special Thanks)
 
 <font size = "6" color = "Blue">JAPANESE ADMIN</font>  
 
