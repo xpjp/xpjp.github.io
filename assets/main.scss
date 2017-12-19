@@ -192,6 +192,15 @@ $google-shadow-color: #e33826;
     margin-right: 0.3em;
 }
 
+.hid {
+    color: $text-color !important;
+}
+
+.hid:hover {
+    cursor: default !important;
+    text-decoration: none;
+}
+
 @include media-query($on-palm) {
     .sns-share > li {
         margin: 0.4em 0.5em;
