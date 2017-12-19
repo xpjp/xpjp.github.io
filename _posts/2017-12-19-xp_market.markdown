@@ -35,7 +35,7 @@ PoSによるステーク報酬で購入してみてはどうでしょうか？
 
 ![スクショ5]({{site.baseurl}}/images/xp_market/5.png)  
 
-入力した情報に誤りななければ `COmplete order` を押してください。  
+入力した情報に誤りななければ `Complete order` を押してください。  
 
 ![スクショ6]({{site.baseurl}}/images/xp_market/6.png)  
 
