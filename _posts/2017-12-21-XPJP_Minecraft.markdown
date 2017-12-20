@@ -5,6 +5,8 @@ date:   2017-12-21 0:30:00 +0900
 categories: official
 author: 依田
 ---
+![スクショ1]({{site.baseurl}}/images/minecraft_001.png)  
+
 ```  
 私立XP女学院マイクラ部出来ましたわよ！お姉さま方！  
 サーバーはPC再起動やメンテ時以外は基本24時間動いておりますの（サーバー用PCではございません）  
