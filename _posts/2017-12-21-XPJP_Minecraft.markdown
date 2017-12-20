@@ -21,7 +21,7 @@ author: 依田
 気軽にお越しくださいまし！ flacxp-mine.mydns.jp  
 ```  
 
-version 1.12.2  
-IP flacxp-mine.mydns.jp  
+version : 1.12.2  
+IP : flacxp-mine.mydns.jp  
 
 **※人数制限があるのでお気を付けください。**  
