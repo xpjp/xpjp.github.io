@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "仮想通貨管理アプリ クリプトフィリオ が XP に対応しました！"
+title:  "仮想通貨管理アプリ クリプトフォリオ が XP に対応しました！"
 date:   2017-12-21 19:15:00 +0900
 categories: official
 author: 依田
 ---
-国産の仮想通貨管理アプリとして人気のクリプトフィリオが、XPを取り扱う   [CoinExchange](https://www.coinexchange.io/)に対応したことにより、XPの日本円換算での管理ができるようになりました。  
+国産の仮想通貨管理アプリとして人気のクリプトフォリオが、XPを取り扱う   [CoinExchange](https://www.coinexchange.io/)に対応したことにより、XPの日本円換算での管理ができるようになりました。  
 DOGE建、BTC建、どちらの換算も可能です。ご利用ください。  
 
 アプリはこちらから↓  
