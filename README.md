@@ -3,7 +3,8 @@
 ・XPJP公式HPの作成にはJekyllを使用しています。  
 
 Jekyllは静的サイトを生成するためのRuby製のツールです。  
-[Jekyll とは何か](https://app.codegrid.net/entry/jekyll-introduction)  
+[Jekyll とは何か1](https://app.codegrid.net/entry/jekyll-introduction)  
+[Jekyll とは何か2](https://jekyllrb-ja.github.io/)  
 [Jekyll 導入方法](https://jekyllrb-ja.github.io/docs/installation/)  
 
 ### 記事の追加方法  
