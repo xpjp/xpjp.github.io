@@ -7,6 +7,10 @@ Jekyllは静的サイトを生成するためのRuby製のツールです。
 [Jekyll とは何か2](https://jekyllrb-ja.github.io/)  
 [Jekyll 導入方法](https://jekyllrb-ja.github.io/docs/installation/)  
 
+### Jekyllコマンド  
+・jekyll build  
+・jekyll serve  
+
 ### 記事の追加方法  
 `./_posts/`にmarkdownファイルを追加することによって記事を追加できます。  
 画像は`./images/`に入れています。  
