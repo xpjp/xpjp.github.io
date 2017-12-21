@@ -2,7 +2,7 @@
 layout: post
 title:  "(お願い) 新ウォレット xp-qt 1.1.0 について"
 date:   2017-12-21 23:00:00 +0900
-categories: xp_game
+categories: official
 author: 依田
 ---
 本家にて公開されました xp-qt 1.1.0 ですが、  
