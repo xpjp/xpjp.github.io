@@ -2,7 +2,7 @@
 layout: post
 title:  "有志がMinecraftサーバーを建ててくださいました！"
 date:   2017-12-21 0:30:00 +0900
-categories: official
+categories: xp_game
 author: 依田
 ---
 ![スクショ1]({{site.baseurl}}/images/Minecraft_001.png)  
