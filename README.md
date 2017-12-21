@@ -1,2 +1,6 @@
 # xpjp.github.io
-XP-JP公式HPを開発しています。
+
+・XPJP公式HPの作成にはJekyllを使用しています。  
+
+[Jekyll 導入方法](https://jekyllrb-ja.github.io/docs/installation/)  
+
