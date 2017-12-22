@@ -5,6 +5,8 @@ date:   2017-12-15 13:30:00 +0900
 categories: official
 author: 依田
 ---
+**(2017/12/23現在 疑似マイニングを推奨していません)**  
+
 
 ![ロゴ]({{site.baseurl}}/images/logo/mining_pool.png)  
 
