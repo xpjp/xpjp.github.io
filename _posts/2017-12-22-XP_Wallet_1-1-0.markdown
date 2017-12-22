@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "(最重要) XP wallet xp-qt 1.1.0 リリースと検証完了のお知らせ"
+date:   2017-12-22 23:00:00 +0900
+categories: official
+author: 依田
+---  
+XP Teamからのお知らせです。  
+大変お待たせいたしました。本家Devチームがリリースした新ウォレット `xp-qt 1.1.0` の XP-JP Lab による検証が進み、告知してもよいとの判断にいたりましたのでご連絡します。なお検証作業は今後も続けられます。  
+主な操作方法は、一部単語の変更はありますが、これまでとは変更はないものと思います。  
+
+取引所側の対応として、`Coinsmarkets` は 1.1.0 への対応済、`Coinexchange` と `TradeSATOSHI` は 現在対応中、閉鎖が予定されている `Novaexchange` は 未対応 となっております。  
+
+新ウォレットへの切り替え方法はこのようになります。**<u>手順は必ず守ってください。</u>**  
+特に、**<u>何らかのミスにより wallet.dat が失われた場合、ウォレット内の XP は完全に失われます。</u>**  
+
+```  
+1. File → Backup wallet で wallet.dat のバックアップを保存
+2. ウォレットを終了する
+3. 従来の xp-qt.exe を xp-qt.old へ名前を変える
+4. ダウンロードした新ウォレットの圧縮ファイルを解凍し、xp-qt.exe を 3.のフォルダに移動する
+5. 新しい xp-qt.exe を起動する
+```  
+
+2018/01/01 日本時間09:00に ハードフォークが行われ、1.1.0 ネットワークのPoS報酬が40％に引き下げられます。  
+また、旧来の 1.0.0 ネットワークのPoS報酬は無効となると考えられます。  
+
+また、これまで XP-JP で提供しておりましたブートストラップは 1.0.0用となり、新ウォレットではお使いいただけません。  
+新ウォレット用は新たにご用意しましたので、新規インストールなさる方はこちらをお使いください。  
+
+ダウンロード先はこちら  
+
+Windows用、MacOS用、Linux用  
+[https://github.com/eXperiencePoints/XPCoin/releases/tag/1.1.0](https://github.com/eXperiencePoints/XPCoin/releases/tag/1.1.0)  
+
+ブートストラップはこちら(各機種共通)  
+[https://drive.google.com/file/d/1cq55QT9T5zG6xk24e1MQBcqfF1vNap_z/view](https://drive.google.com/file/d/1cq55QT9T5zG6xk24e1MQBcqfF1vNap_z/view)  
