@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "(注意) XPBustというサイトについて"
+date:   2017-12-22 18:55:00 +0900
+categories: official
+author: 依田
+---  
+[https://xpbust.com/](https://xpbust.com/)  
+上記サイトにてXPを使用したアプリケーションが実施されていますが、  
+こちらのサービスはXP開発チームとの関わりは全くございません。  
+よってプレーによる、<u>いかなる損害も各自の責任</u>となります。  
+ご注意ください。  
