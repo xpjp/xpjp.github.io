@@ -5,6 +5,8 @@ date:   2017-12-18 8:30:00 +0900
 categories: official
 author: 依田
 ---
+![ロゴ]({{site.baseurl}}/images/logo/faucets.png)  
+
 クリスマスということで本家よりFaucetが設置されました！  
 
 以下本家Mods babyfistさんからのお知らせです。  

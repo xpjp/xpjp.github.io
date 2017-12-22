@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![ロゴ]({{site.baseurl}}/images/logo/team.png)  
+
 # XP-JP Management Members  
 更新日 : 2017年12月19日  
 [](Special Thanks)

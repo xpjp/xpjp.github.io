@@ -6,6 +6,8 @@ categories: official
 author: 依田
 ---
 
+![ロゴ]({{site.baseurl}}/images/logo/mining_pool.png)  
+
 # XP疑似マイニング  
 このサイトでマイニングできます [https://pool1.xpcoin.io/](https://pool1.xpcoin.io/)  
 
