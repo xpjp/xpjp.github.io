@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "(重要) XPBustというサイトについて 2"
+date:   2017-12-22 19:50:00 +0900
+categories: official
+author: 依田
+---  
+本家Modsの `Dr.Dさん` からです  
+```  
+ Do NOT visit XPBUST under any circumstances, I have received numerious  
+ complaints about this being a scam website. This website is illegal  
+since it has no gambling license and no age verificiation or  
+restriction. Usage of the website is very much discouraged and   
+promoting it here will result in a BAN  
+ ```  
+和訳(google翻訳)  
+```  
+いかなる状況下でも、XPBustにはアクセスしないでください。  
+私はこれが詐欺のウェブサイトであることについて数多くの苦情を受けています。  
+このウェブサイトはギャンブルのライセンスがなく、年齢確認や制限がないため違法です。  
+ウェブサイトの使用は非常に危険であり、XPBustの利用を勧めるような行為が見受けられた場合、  
+そのユーザーはスパム行為とみなしBANされる場合がありますのでご注意ください。  
+```  
+
+とのことですのでXPJPでは**当該サイトの利用を推奨しません。**  
+また、**このサイトを利用して受けた損害に対してXPJPは一切の責任を負いません。**  
