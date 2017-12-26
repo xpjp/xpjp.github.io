@@ -6,7 +6,7 @@ categories: official
 author: 依田
 ---  
 ![スクショ1]({{site.baseurl}}/images/xp_market/20171226-xpmarket.png)  
-[xp.market](https://xp.market/) で取り扱う商品が増えました！  
+[xp.market](https://xp.market/collections/all) で取り扱う商品が増えました！  
 PoS報酬などで購入してみてください。  
 
 購入方法は[こちら]({{site.baseurl}}/official/2017/12/19/xp_market.html)を参考にしてください。  
