@@ -1,6 +1,42 @@
 ---
 layout: default
 ---
+
+{% assign share_url = page.url | absolute_url %}
+
+<script>
+  function replaceAll(src, before, after) {
+    for (let i = 0; i < src.length; ++ i) {
+      if (src[i] == before) {
+        src = src.replace(before, after)
+      }
+    }
+    return src;
+  }
+
+  document.addEventListener( 'DOMContentLoaded', function() {
+      let page_title = "{{ page.title }}";
+      const special_chars = [
+        "#",
+        "+",
+        "-",
+        "^",
+        "~",
+        "|",
+        "{",
+        "}"
+      ];
+      
+      for (const c of special_chars) {
+        const char_code = "%" + c.codePointAt(0).toString(16);
+        page_title = replaceAll(page_title, c, char_code)
+      }
+      
+      let uri = "https://twitter.com/intent/tweet?text={{ site.title }}%20-%20" + page_title + "%20$XP&url={{ share_url }}";
+      document.getElementsByClassName("share-button-twitter")[0].href = uri;
+    }, false );
+</script>
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -8,7 +44,6 @@ layout: default
 
   <ul class="sns-share">
       <li>
-        {% assign share_url = page.url | absolute_url %}
         <a href="https://plus.google.com/share?url={{ share_url }}" rel="nofollow" target="_blank" title="Share on Google+" class='share-button-google'>
           Google+
         </a>
@@ -19,7 +54,7 @@ layout: default
         </a>
       </li>
       <li>
-        <a href="https://twitter.com/intent/tweet?text={{ site.title }}%20-%20{{ page.title }}%20$XP&url={{ share_url }}" rel="nofollow" target="_blank" title="Share on Twitter" class='share-button-twitter'>
+        <a rel="nofollow" target="_blank" title="Share on Twitter" class='share-button-twitter'>
           Twitter
         </a>
       </li>
