@@ -93,12 +93,12 @@ Send an amount of XP to address
 Send your full amount XP to address
 
 ## 注意事項
-@tip_XPchanはXP-JP有志による実験的なサービスです。  
+[@tip_XPchan](https://twitter.com/tip_XPchan)はXP-JP有志による実験的なサービスです。  
 何らかの原因で残高が消滅する可能性もあります。  
 botには投げ銭用の少額のみ入金してください。  
 アプリ連携によっては勝手にツイートするものもあるのでご注意ください。
 
 ## Caution  
-@ tip_XPchan is an experimental service by XP-JP.
+[@tip_XPchan](https://twitter.com/tip_XPchan) is an experimental service by XP-JP.
 There is a possibility that the balance may disappear for some reason.
 Please credit only a small amount for the tip on the bot.
