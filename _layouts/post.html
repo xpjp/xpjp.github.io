@@ -32,7 +32,7 @@ layout: default
         page_title = replaceAll(page_title, c, char_code)
       }
       
-      let uri = "https://twitter.com/intent/tweet?text={{ site.title }}%20-%20" + page_title + "%20$XP&url={{ share_url }}";
+      let uri = "https://twitter.com/intent/tweet?text=" + page_title + "%20-%20{{ site.title }}%20$XP&url={{ share_url }}";
       document.getElementsByClassName("share-button-twitter")[0].href = uri;
     }, false );
 </script>
