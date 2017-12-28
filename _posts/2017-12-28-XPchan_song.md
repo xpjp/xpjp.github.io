@@ -6,7 +6,7 @@ categories: official
 author: 依田
 ---  
 XP-JP からのお知らせです。  
-`@Yota_Aさん`が、XPちゃんの応援ソングを作ってくれました！  
+[@Yota_Aさん](https://twitter.com/intent/tweet?text=@tip_XPchan tip @yutakandori 39 ありがとう！&hashtags=XPJP&url=https://xpjp.github.io/official/2017/12/28/XPchan_song.html)が、XPちゃんの応援ソングを作ってくれました！  
 ぜひお聞きください！  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KwPLn70X4NI?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>  
