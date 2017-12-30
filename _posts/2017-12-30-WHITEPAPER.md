@@ -11,3 +11,4 @@ XP-JP Modsチームからお知らせです。
 
 [ホワイトペーパー日本語訳]({{site.baseurl}}/images/XPCoin-Whitepaper-ja.pdf)  
 
+誤字・脱字・翻訳間違いがございましたら [#mod_request](https://discord.gg/tDFSMtk)までお願いします。  
