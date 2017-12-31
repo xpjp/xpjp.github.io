@@ -16,8 +16,8 @@ XP Team からのお知らせです。
 BNBを買っおくとBinanceで売買する際に手数料BNB払いにすると、  
 手数料が0.1％から0.05％になるため役立ちます。将来XP売買するときに役立つます。  
 
-既にBinanceアカウントをお持ちの方はこちらかた投票できるようになります。  
+既にBinanceアカウントをお持ちの方はこちらから投票できるようになります。  
 [https://www.binance.com/vote.html](https://www.binance.com/vote.html)  
 
-登録のお済でない方は有志が登録方法ついてまとめてくださいましたので以下を参考にするなどして投票していただけたら幸いです。  
+登録のお済でない方は有志が登録方法ついてまとめてくださいましたので以下の記事などを参考にしてください。    
 [https://www.kouhei-game.com/entry/binance/](https://www.kouhei-game.com/entry/binance/)  
