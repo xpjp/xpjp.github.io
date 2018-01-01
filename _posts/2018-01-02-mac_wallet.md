@@ -92,76 +92,11 @@ XP-JPの時系列ここまで
 <br>
 関連するブロックチェーン上の動き
 
-<table>
-<tr>
-  <th>ブロック</th>
-  <th>日時</th>
-  <th>送付元</th>
-  <th>送付先</th>
-  <th>備考</th>
-</tr>
-<tr>
-  <td rowspan=2>[1998892][]</td>
-  <td rowspan=2>2017/12/28 21:23:01</td>
-  <td rowspan=2>
-    [XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][]  
-    送付量=[288,037,034.050680 XP \[0b0b9818:0]][0b0b9818]
-  </td>
-  <td>
-    [XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][]  
-    受取量=[144,632,025.120000 XP \[7572b05d:1]][7572b05d]
-  </td>
-  <td rowspan=2>採掘報酬[^1]</td>
-</tr>
-<tr>
-  <td>
-    [XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][]  
-    受取量=[144,632,025.138900 XP \[7572b05d:2]][7572b05d]
-  </td>
-</tr>
-<tr>
-  <td rowspan=2>[2004402][]</td>
-  <td rowspan=2>2017/12/30 22:25:26</td>
-  <td rowspan=2>
-    [XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][]  
-    送付量=[144,632,025.120000 XP \[7572b05d:1]][7572b05d]
-  </td>
-  <td>
-    [XTncrzEK61m2xERZT52RtTk64cGAUVsLDa][]  
-    受取量=[144,630,879.978080 XP \[2d927f1a:0]][2d927f1a]
-  </td>
-  <td>お釣り</td>
-</tr>
-<tr>
-  <td>
-    [XMthBvAJcDEg3PNc9h1F8j7AdGY5uDphC9][]  
-    受取量=[      1,145.141919 XP \[2d927f1a:1]][2d927f1a]
-  </td>
-  <td></td>
-</tr>
-<tr>
-  <td rowspan=2>[2004445][]</td>
-  <td rowspan=2>2017/12/30 22:48:51</td>
-  <td rowspan=2>
-    [XTncrzEK61m2xERZT52RtTk64cGAUVsLDa][]  
-    送付量=[144,630,879.978080 XP \[2d927f1a:0]][2d927f1a]
-  </td>
-  <td>
-    [XYVd78BqwkDpWrR2avoufZTWDkPAK9zyZh][]  
-    受取量=[144,629,879.978080 XP \[145f3727:0]][145f3727]
-  </td>
-  <td>お釣り</td>
-</tr>
-<tr>
-  <td>
-    [XRvbnJ5tNcqM5aXtVWRa4D59kYtBCccHjc][]  
-    受取量=[      1,000.000000 XP \[145f3727:1]][145f3727]
-  </td>
-  <td></td>
-</tr>
-</table>
-
-[^1]: XPでは採掘報酬を加算し、出力を２つに分割します。
+|ブロック   |日時               |送付元                                                                                             |送付先                                                                                                                                                                                                      |
+|-----------|-------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[1998892][]|2017/12/28 21:23:01|[XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][] <br> 送付量=[288,037,034.050680 XP \[0b0b9818:0\]][0b0b9818]|[XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][] <br> 受取量=[144,632,025.120000 XP \[7572b05d:1\]][7572b05d] <br> [XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][] <br> 受取量=[144,632,025.138900 XP \[7572b05d:2\]][7572b05d]|
+|[2004402][]|2017/12/30 22:25:26|[XNCjhAg7AZDCA7cZy3NHaXUtXsLpUAJNZU][] <br> 送付量=[144,632,025.120000 XP \[7572b05d:1\]][7572b05d]|[XTncrzEK61m2xERZT52RtTk64cGAUVsLDa][] <br> 受取量=[144,630,879.978080 XP \[2d927f1a:0\]][2d927f1a] <br> [XMthBvAJcDEg3PNc9h1F8j7AdGY5uDphC9][] <br> 受取量=[      1,145.141919 XP \[2d927f1a:1\]][2d927f1a]|
+|[2004445][]|2017/12/30 22:48:51|[XTncrzEK61m2xERZT52RtTk64cGAUVsLDa][] <br> 送付量=[144,630,879.978080 XP \[2d927f1a:0\]][2d927f1a]|[XYVd78BqwkDpWrR2avoufZTWDkPAK9zyZh][] <br> 受取量=[144,629,879.978080 XP \[145f3727:0\]][145f3727] <br> [XRvbnJ5tNcqM5aXtVWRa4D59kYtBCccHjc][] <br> 受取量=[      1,000.000000 XP \[145f3727:1\]][145f3727]|
 
 [1998892]: https://chainz.cryptoid.info/xp/block.dws?1998892.htm
 [2004402]: https://chainz.cryptoid.info/xp/block.dws?2004402.htm
