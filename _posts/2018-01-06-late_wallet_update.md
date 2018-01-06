@@ -14,7 +14,7 @@ XP-JP Labチームからのお知らせです。
 
 ・bootstrap.dat を[ダウンロード](https://object-storage.tyo1.conoha.io/v1/nc_c17ae3d951a84d7ba2a9d28bf2bbfbd7/XPbootstrap/bootstrap.dat)  
 ・現在のXPフォルダをバックアップしてください。  
-・`wallet.dat peer.dat XP.conf` **以外**のファイルを消す  
+・`wallet.dat peers.dat XP.conf` **以外**のファイルを消す  
 ・`bootstrap.dat` を置く  
 ・XPウォレット 1.1.0 を導入し起動する（起動には数十分～数十時間掛かります）  
 ・`bootstrap.dat` が消え、 `bootstrap.dat.old` が出来ていれば作業は完了です。   ※bootstrap.dat.old は不要ですので削除してください。  
