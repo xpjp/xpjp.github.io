@@ -3,7 +3,10 @@ layout: page
 title: WhitePaper
 permalink: /whitepaper/
 ---
-2018年1月8日更新
+2018年1月8日更新  
+
+[ホワイトペーパー日本語訳 pdf]({{site.baseurl}}/images/XPCoin-Whitepaper-ja.pdf)  
+
 # 経済に基づく経験;より広範なアプローチ
 # 要約:
 
