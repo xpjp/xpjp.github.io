@@ -17,7 +17,7 @@ layout: default
 
 | @Xp-Bot |  
 | @XPFiat-BOT |  
-| @XPJBot |  
+| @XPJPBot |  
 | @XP水道局 |  
 
 
