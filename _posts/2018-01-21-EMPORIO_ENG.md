@@ -9,7 +9,7 @@ Special announcement from The XP-JP Marketing team!
 [café EMPORIO](http://emporio.tv/index.html) is accepting XP as a form of payment. It’s started on 1/18/2018  
 The Café is offering a 20% discount for all XP payments.  
 Also, you’ll receive 100XP as a reward!  
-[café EMPORIO](http://emporio.tv/index.html) is located in Meguro City in Tokyo, nearby the Gakugeidaigaku station.  
+[café EMPORIO](http://emporio.tv/index.html) is located in Meguro City in Tokyo, near the Gakugeidaigaku station.  
 Please go check it out and enjoy a nice meal with your XP.  
 
 ![スクショ1]({{site.baseurl}}/images/2018/01/EMPORIO2.jpg)  
