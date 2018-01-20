@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "XPちゃんペーパーウォレットコンペの募集を締め切りました (2018/01/21)"
+title:  "XPちゃんペーパーウォレットコンペの募集を締め切りました"
 date:   2018-1-21 4:10:00 +0900
 categories: official
 author: 依田
