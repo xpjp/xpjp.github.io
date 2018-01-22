@@ -5,15 +5,53 @@
 @import "minima";
 
 $border-color: #E4E6EB;
-$border-region-color: #000000;
+//$xp-color-1: rgb(98, 178, 88);
+//$xp-color-2: rgb(56, 122, 69);
+$xp-color-1: rgb(228, 21, 21);
+$xp-color-2: rgb(228, 21, 21);
+
+.info-box {
+    #title {
+        border-radius: 0.4rem 0.4rem 0rem 0rem;
+
+        font-weight: bold;
+        color: #ffffff;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        width: 100%;
+
+        background: linear-gradient(-135deg, $xp-color-1, $xp-color-2);
+
+        span {
+            display: inner-block;
+            margin: 1rem;
+        }
+    }
+
+    #info {
+        li {
+            margin: 1.5rem;
+        }
+    }
+
+    width: 100%;
+
+    border-radius: 0.4rem;
+
+    //box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+    border: solid 1px $border-color;
+
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.3rem;
+}
 
 .shop-regions {
-    border-bottom: 1px solid $border-region-color;
+    border-bottom: 1px solid $border-color;
     margin-bottom: 1rem;
 }
 
 .shop-partial {
-    border-bottom: 1px solid $border-region-color;
+    border-bottom: 1px solid $border-color;
     margin-top: 1rem;
 }
 
@@ -21,7 +59,16 @@ $border-region-color: #000000;
 }
 
 .shop {
+    padding: 1rem;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+    border-radius: 0.4rem;
+}
+
+.shop:first-child {
+    margin-top: 0;
 }
 
 .header-icon {
