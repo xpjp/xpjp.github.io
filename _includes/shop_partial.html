@@ -1,0 +1,18 @@
+<div id="{{ include.region_name }}" class="shop-partial">
+    <h2 class="shop-partial-title">
+        {{ include.region_name }}
+    </h2>
+
+    {% assign shops = site.shops | where: "region", include.region_name %}
+    {% for shop in shops %}
+        <div class="shop">
+            <h3>
+                {{ shop.title }}
+            </h3>
+
+            <span>
+                {{ shop.content }}
+            </span>
+        </div>
+    {% endfor %}
+</div>

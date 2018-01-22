@@ -31,6 +31,7 @@ google_analytics: UA-111302890-1
 
 collections:
   faqs:
+  shops:
   thanks:
     output: true
 
