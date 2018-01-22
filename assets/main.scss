@@ -59,7 +59,16 @@ $xp-color-2: rgb(228, 21, 21);
 }
 
 .shop {
+    padding: 1rem;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+    border-radius: 0.4rem;
+}
+
+.shop:first-child {
+    margin-top: 0;
 }
 
 .header-icon {
