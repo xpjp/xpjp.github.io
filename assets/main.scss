@@ -6,6 +6,23 @@
 
 $border-color: #E4E6EB;
 
+.shop-regions {
+    border-bottom: 1px solid $border-color;
+    margin-bottom: 1rem;
+}
+
+.shop-partial {
+    border-bottom: 1px solid $border-color;
+    margin-top: 1rem;
+}
+
+.shop-partial-title {
+}
+
+.shop {
+    margin-bottom: 1rem;
+}
+
 .header-icon {
     height: 10mm;
     width: 10mm;

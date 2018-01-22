@@ -4,14 +4,6 @@ title: Categories
 permalink: /categories
 ---
 
-{% assign categories_name = "" | split: "|"  %}
-
-{% for posts_by_category in site.categories %}
-  {% assign categories_name = categories_name | push: posts_by_category.first %}
-{% endfor %}
-
-{% assign categories_name = categories_name | sort %}
-
 {% include category_cloud.html categories_name = categories_name %}
 
 <section class="posts-by-categories">
