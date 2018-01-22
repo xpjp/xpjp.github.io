@@ -5,14 +5,15 @@
 @import "minima";
 
 $border-color: #E4E6EB;
+$border-region-color: #000000;
 
 .shop-regions {
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-region-color;
     margin-bottom: 1rem;
 }
 
 .shop-partial {
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-region-color;
     margin-top: 1rem;
 }
 

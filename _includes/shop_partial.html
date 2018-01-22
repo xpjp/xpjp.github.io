@@ -6,9 +6,10 @@
     {% assign shops = site.shops | where: "region", include.region_name %}
     {% for shop in shops %}
         <div class="shop">
-            <h3>
+            <hr>
+            <h1>
                 {{ shop.title }}
-            </h3>
+            </h1>
 
             <span>
                 {{ shop.content }}
