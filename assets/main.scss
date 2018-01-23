@@ -36,7 +36,6 @@ $pagination-color: rgb(70, 70, 70);
 
         border-radius: 0 0 0.5rem 0.5rem;
         border: solid 2px $border-color;
-        border-top: solid 2px $xp-color-1;
     }
 
     width: 100%;
@@ -265,7 +264,7 @@ $google-shadow-color: #e33826;
     span {
         //font-weight: bold;
         font-size: 1.8rem;
-        padding-left: 0.5rem;
+        padding-left: 0.5em;
         padding-right: 0.3rem;
     }
 }
