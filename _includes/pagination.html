@@ -1,0 +1,13 @@
+{% if paginator.total_pages > 1 %}
+    <div id="now-page">
+        Page <span>{{ paginator.page }}</span> / {{ paginator.total_pages }}
+    </div>
+
+    <div id="pagination">
+        {% if paginator.previous_page and paginator.next_page %}
+            {% include pagination_partial.html width_class="quarter-width" %}
+        {% else %}
+            {% include pagination_partial.html width_class="half-width" %}
+        {% endif %}
+    </div>
+{% endif %}

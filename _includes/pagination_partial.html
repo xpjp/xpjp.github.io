@@ -1,0 +1,19 @@
+{% if paginator.previous_page %}
+    <a id="paginaiton-first" class="{{ include.width_class }}" href="{{ "/" | relative_url }}">
+        <span>≪ </span>First
+    </a>
+
+    <a id="pagination-prev" class="{{ include.width_class }}" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        <span>&lt; </span>Prev
+    </a>
+{% endif %}
+
+{% if paginator.next_page %}
+    <a id="paginaiton-next" class="{{ include.width_class }}" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        Next<span> ></span>
+    </a>
+    
+    <a id="pagination-last" class="{{ include.width_class }}" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">
+        Last<span> ≫</span>
+    </a>
+{% endif %}

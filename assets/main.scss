@@ -9,6 +9,7 @@ $border-color: #E4E6EB;
 //$xp-color-2: rgb(56, 122, 69);
 $xp-color-1: rgb(228, 21, 21);
 $xp-color-2: rgb(228, 21, 21);
+$pagination-color: rgb(70, 70, 70);
 
 .info-box {
     #title {
@@ -32,15 +33,18 @@ $xp-color-2: rgb(228, 21, 21);
         li {
             margin: 1.5rem;
         }
+
+        border-radius: 0 0 0.5rem 0.5rem;
+        border: solid 2px $border-color;
+        border-top: solid 2px $xp-color-1;
     }
 
     width: 100%;
 
-    border-radius: 0.4rem;
 
     //box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
-    border: solid 1px $border-color;
 
+    margin: 0;
     margin-bottom: 1.5rem;
     padding-bottom: 0.3rem;
 }
@@ -248,13 +252,66 @@ $google-shadow-color: #e33826;
     margin-top: 1em;
 }
 
-.pagination {
-    font-size: 16pt;
+#now-page {
+    width: 100%;
+
+    color: $pagination-color;
+    text-align: center;
+    font-size: 1.5rem;
+
+    padding-top: 0.2rem;
+    padding-bottom: 1rem;
+
+    span {
+        //font-weight: bold;
+        font-size: 1.8rem;
+        padding-left: 0.5rem;
+        padding-right: 0.3rem;
+    }
 }
 
-.pagination > * {
-    margin-left: 0.3em;
-    margin-right: 0.3em;
+#pagination {
+    width: 100%;
+    height: 2.9rem;
+    font-size: 1.3rem;
+
+    a {
+        display: block;
+        text-decoration: none;
+        color: $pagination-color;
+
+        float: left;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        padding-top: 0.3rem;
+        padding-bottom: 0.3rem;
+        border-top: solid 1px $pagination-color;
+        border-bottom: solid 1px $pagination-color;
+        border-left: solid 1px $pagination-color;
+
+        text-align: center;
+
+        span {
+            font-weight: bold;
+        }
+    }
+
+    a:first-child {
+        border-radius: 0.2rem 0.0rem 0rem 0.2rem;
+    }
+
+    a:last-child {
+        border-right: solid 1px $pagination-color;
+        border-radius: 0rem 0.2rem 0.2rem 0rem;
+    }
+}
+
+.half-width {
+    width: 49%;
+}
+
+.quarter-width {
+    width: 24%;
 }
 
 .hid {
