@@ -39,5 +39,5 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-paginate: 5
+paginate: 7
 paginate_path: "/page:num"
