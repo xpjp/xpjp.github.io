@@ -4,7 +4,7 @@ title: とり天本舗 寝屋川店
 region: 近畿地方
 ---
 
-寝屋川市駅から歩いて5分、大阪にある居酒屋です  
+寝屋川市駅から歩いて5分、大阪にある居酒屋です。  
 
 **特典 : XPでのお会計なら10%OFF**  
 
@@ -13,4 +13,3 @@ region: 近畿地方
 Twitter : [@TORITEN_0110](https://twitter.com/toriten_0110)  
 Facebook : [@toritenhonpo.neyagawa](https://www.facebook.com/toritenhonpo.neyagawa/)  
 食べログ : [とり天本舗 寝屋川店](https://tabelog.com/osaka/A2707/A270702/27090062/)  
-ホットペッパーグルメ : [とり天本舗 寝屋川店](https://www.hotpepper.jp/strJ001145066/)  
