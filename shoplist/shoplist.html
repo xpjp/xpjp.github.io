@@ -4,11 +4,12 @@ title: Shop List
 permalink: /shoplist
 ---
 
-<h2>Shop List</h2>
+<div id="shop_list-header">
+  <h2>Shop List</h2>
 
-<p id="num_of_shops">
-  現在の対応店舗・サービス数 ： {{ site.shops | size }}件
-</p>
+  <p>XPpay対応店舗・サービスのリストです。</p>
+  <p>現在のXPpay対応店舗・サービスは<span>{{ site.shops | size }}</span>件です。</p>
+</div>
 
 <div class="shop-regions">
   <ul>
