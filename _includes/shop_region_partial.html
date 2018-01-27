@@ -1,0 +1,11 @@
+<li class="shop-region-partial">
+    <a href="{{ baseurl }}/shoplist#{{ include.region_name }}">
+        ・<span id="shop-region-partial-name">{{ include.region_name }}</span>
+        {% assign num_of_shops = site.shops | where: "region", include.region_name | size %}
+        {% if num_of_shops > 0 %}
+            <span id="shop-region-partial-num">
+                {{ num_of_shops }}
+            </span>
+        {% endif %}
+    </a>
+</li>

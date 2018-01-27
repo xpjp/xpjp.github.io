@@ -10,6 +10,9 @@ $border-color: #E4E6EB;
 $xp-color-1: rgb(228, 21, 21);
 $xp-color-2: rgb(228, 21, 21);
 $pagination-color: rgb(70, 70, 70);
+$warning-color:  rgb(240, 57, 57);
+$info-color: #b6b6b6;
+$light-grey: rgb(245, 245, 245);
 
 .info-box {
     #title {
@@ -21,7 +24,8 @@ $pagination-color: rgb(70, 70, 70);
         padding-bottom: 0.5rem;
         width: 100%;
 
-        background: linear-gradient(-135deg, $xp-color-1, $xp-color-2);
+        //background: linear-gradient(-135deg, $xp-color-1, $xp-color-2);
+        background-color: $warning-color;
 
         span {
             display: inner-block;
@@ -66,14 +70,67 @@ $pagination-color: rgb(70, 70, 70);
 
 .shop-regions {
     border-top: 1px solid $border-color;
-    border-bottom: 1px solid $border-color;
     padding-top: 1rem;
     margin-bottom: 1rem;
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+            margin-top: 0.5rem;
+        }
+    
+        li:first-child {
+            margin-top: 0;
+        }
+    }
+}
+
+.shop-region-partial {
+    a {
+        display: block;
+        color: #000;
+        text-decoration: none;
+
+        padding: 0.5rem 0rem;
+
+        #shop-region-partial-name {
+            padding-left: 1rem;
+        }
+
+        #shop-region-partial-num {
+            color: $info-color;
+    
+            padding: .2em .6em;
+            margin-left: 0.1rem;
+    
+    
+            text-align: center;
+            //font-weight: bold;
+            font-size: 0.85rem;
+            line-height: 1;
+            vertical-align: baseline;
+        }
+    }
+
+    a:hover {
+        background-color: $light-grey;
+    }
 }
 
 .shop-partial {
     border-bottom: 1px solid $border-color;
     margin-top: 1rem;
+}
+
+.shop-partial:first-child {
+    border-top: 1px solid $border-color;
+
+    .shop-partial-title {
+        margin-top: 1rem;
+    }
 }
 
 #shop_list-header {
