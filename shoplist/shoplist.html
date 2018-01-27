@@ -13,26 +13,28 @@ permalink: /shoplist
 
 <div class="shop-regions">
   <ul>
-      <li><a href="{{ baseurl }}/shoplist#北海道">北海道</a></li>
-      <li><a href="{{ baseurl }}/shoplist#東北地方">東北地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#関東地方">関東地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#中部地方">中部地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#近畿地方">近畿地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#中国地方">中国地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#四国地方">四国地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#九州地方">九州地方</a></li>
-      <li><a href="{{ baseurl }}/shoplist#沖縄">沖縄</a></li>
-      <li><a href="{{ baseurl }}/shoplist#海外">海外</a></li>
+    {% include shop_region_partial.html region_name = "北海道" %}
+    {% include shop_region_partial.html region_name = "東北地方" %}
+    {% include shop_region_partial.html region_name = "関東地方" %}
+    {% include shop_region_partial.html region_name = "中部地方" %}
+    {% include shop_region_partial.html region_name = "近畿地方" %}
+    {% include shop_region_partial.html region_name = "中国地方" %}
+    {% include shop_region_partial.html region_name = "四国地方" %}
+    {% include shop_region_partial.html region_name = "九州地方" %}
+    {% include shop_region_partial.html region_name = "沖縄" %}
+    {% include shop_region_partial.html region_name = "海外" %}
   </ul>
 </div>
 
-{% include shop_partial.html region_name = "北海道" %}
-{% include shop_partial.html region_name = "東北地方" %}
-{% include shop_partial.html region_name = "関東地方" %}
-{% include shop_partial.html region_name = "中部地方" %}
-{% include shop_partial.html region_name = "近畿地方" %}
-{% include shop_partial.html region_name = "中国地方" %}
-{% include shop_partial.html region_name = "四国地方" %}
-{% include shop_partial.html region_name = "九州地方" %}
-{% include shop_partial.html region_name = "沖縄" %}
-{% include shop_partial.html region_name = "海外" %}
+<div>
+  {% include shop_partial.html region_name = "北海道" %}
+  {% include shop_partial.html region_name = "東北地方" %}
+  {% include shop_partial.html region_name = "関東地方" %}
+  {% include shop_partial.html region_name = "中部地方" %}
+  {% include shop_partial.html region_name = "近畿地方" %}
+  {% include shop_partial.html region_name = "中国地方" %}
+  {% include shop_partial.html region_name = "四国地方" %}
+  {% include shop_partial.html region_name = "九州地方" %}
+  {% include shop_partial.html region_name = "沖縄" %}
+  {% include shop_partial.html region_name = "海外" %}
+</div>
