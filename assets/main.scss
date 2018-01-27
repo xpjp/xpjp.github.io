@@ -30,12 +30,23 @@ $pagination-color: rgb(70, 70, 70);
     }
 
     #info {
-        li {
-            margin: 1.5rem;
+        ul {
+            li {
+                margin-left: 1.5rem;
+                margin-top: 1rem;
+            }
+
+            li:first-child {
+                margin-top: 0;
+            }
+
+            margin: 0;
         }
 
         border-radius: 0 0 0.5rem 0.5rem;
         border: solid 2px $border-color;
+
+        padding: 1rem;
     }
 
     width: 100%;
@@ -48,8 +59,15 @@ $pagination-color: rgb(70, 70, 70);
     padding-bottom: 0.3rem;
 }
 
+#num_of_shops {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
 .shop-regions {
+    border-top: 1px solid $border-color;
     border-bottom: 1px solid $border-color;
+    padding-top: 1rem;
     margin-bottom: 1rem;
 }
 
@@ -58,7 +76,18 @@ $pagination-color: rgb(70, 70, 70);
     margin-top: 1rem;
 }
 
-.shop-partial-title {
+#shop_list-header {
+    h2 {
+      display: inline-block;
+      margin-bottom: 1.5rem;  
+    }
+
+    p {
+        span {
+            font-size: 1.5rem;
+            margin: 0 0.3rem;
+        }
+    }
 }
 
 .shop {
