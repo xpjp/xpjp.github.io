@@ -15,4 +15,6 @@ HP : [百合丘 mana整骨院](http://www.manaseikotsu.com/)
 Twitter : [@akkyy0615](https://twitter.com/akkyy0615)  
 AmebaBlog : [@matugae-akkyy](http://profile.ameba.jp/matugae-akkyy)  
 LINE : 
-<img src="./images/shops/kanagawa/mana_seikotsuin.png" alt="LINE" width="100" height="100">   
+<img src="./images/shops/kanagawa/mana_seikotsuin_LINE.png" alt="LINE" width="120" height="120">   
+QR : 
+<img src="./images/shops/kanagawa/mana_seikotsuin_QR-comp.png" alt="LINE" width="120" height="120">   
