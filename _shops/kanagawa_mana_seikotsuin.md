@@ -14,7 +14,6 @@ region: 関東地方
 HP : [百合丘 mana整骨院](http://www.manaseikotsu.com/)  
 Twitter : [@akkyy0615](https://twitter.com/akkyy0615)  
 AmebaBlog : [@matugae-akkyy](http://profile.ameba.jp/matugae-akkyy)  
-LINE : 
-<img src="./images/shops/kanagawa/mana_seikotsuin_LINE.png" alt="LINE" width="120" height="120">   
-QR : 
+LINE : [mana整骨院](https://line.me/R/ti/p/%40ywq1077o)   
+QR : [http://qr.quel.jp/omatome.php?gs=2FQ9VZ](http://qr.quel.jp/omatome.php?gs=2FQ9VZ)  
 <img src="./images/shops/kanagawa/mana_seikotsuin_QR-comp.png" alt="LINE" width="120" height="120">   
