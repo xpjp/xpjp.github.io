@@ -13,7 +13,7 @@ Twitter上で、[XPと各通貨ペア相場を表示するBot](https://twitter.c
 <a href="https://twitter.com/XP_information?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @XP_information</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 <br>
-## コマンド一覧(2018/01/27)
+## コマンド一覧(2018/02/09)
 
 - CoinExchange  
 ```
@@ -32,6 +32,12 @@ CryptoBridgeで取り扱っている通貨でのレートを表示
 @XP_information TS
 ```
 TradeSatoshiで取り扱っている通貨でのレートを表示  
+
+- CoinHouse
+```
+@XP_information CH
+```
+CoinHouseで取り扱っている通貨でのレートを表示  
 
 - XP/BTC
 ```
