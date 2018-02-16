@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "公式オフ会 開催のお知らせ（追記）"
+title:  "公式オフ会 開催のお知らせ"
 date:   2018-2-14 19:25:00 +0900
 categories: official
 author: 依田
