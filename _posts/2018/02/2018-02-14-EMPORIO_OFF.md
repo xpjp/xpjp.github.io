@@ -6,7 +6,7 @@ categories: official
 author: 依田
 ---  
 
-**定員のため参加受付を終了しました**  
+<font size = "6" color = "Red">定員のため参加受付を終了しました</font>
 
 XP-JP よりお知らせです。
 
