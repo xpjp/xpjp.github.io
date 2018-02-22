@@ -13,3 +13,4 @@ region: 沖縄
 HP : [aloha surf okinawa](https://www.aloha-surf-okinawa.com/)  
 Twitter : [@alohasurfoki](https://twitter.com/alohasurfoki)  
 Instagram : [@alohasurfoki](https://www.instagram.com/alohasurfoki/)  
+Facebook : [@alohasurfokinawa](https://www.facebook.com/alohasurfokinawa)  
