@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "XPちゃんPWコンペ終了のお知らせ"
+title:  "XPちゃんPWコンペ作品一覧"
 date:   2018-2-23 16:00:00 +0900
 categories: official
 author: 依田
