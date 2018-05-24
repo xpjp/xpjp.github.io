@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  ":warning: AirDrop まで XP-Qt ウォレットはアンインストールしないでください"
+title:  "AirDrop まで XP-Qt ウォレットはアンインストールしないでください"
 date:   2018-5-24 15:00:00 +0900
 categories: official
 author: XPChain Japan
 ---
 
-## XP-Qtウォレットでスナップショット日時を迎えた皆様への注意事項です。
+### XP-Qtウォレットでスナップショット日時を迎えた皆様への注意事項です。
 
 何回かご案内させていただいてますが、受け取り手続きにXPqtウォレットは必要です。
 
