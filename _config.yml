@@ -1,16 +1,11 @@
 title: eXperience Points Japan
-email: xp_japan@xpcoin.io
 description: >- # this means to ignore newlines until "baseurl:"
    eXperience Pointsはゲーム報酬に特化された仮想通貨です。
    ブロックチェーン技術をあらゆるゲームに取り入れることを可能にします。
    また、スポーツや教育分野も私たちのターゲットです。
    それらの実現を目指し日々開発を続けております。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xpjp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xp_japan
-github_username:  xpjp
-discord_channel_name: XP 日本
-discord_url: https://discord.gg/byc8pnM
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -32,8 +27,6 @@ google_analytics: UA-111302890-1
 collections:
   faqs:
   shops:
-  thanks:
-    output: true
 
 plugins: 
   - jekyll-paginate
